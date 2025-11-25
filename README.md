@@ -1,5 +1,4 @@
 <h1 align="center">💸 FinDash – Smart Expense, Budget & Analytics Tracker 📊</h1>
-<h1 align="center">💸 FinDash – Smart Expense, Budget & Analytics Tracker 📊</h1>
 FinDash is a modern, intuitive financial management application designed to help users track expenses, analyze spending patterns, and manage budgets efficiently.
 The platform includes JWT authentication, a clean dashboard, detailed expense management, analytics visualizations, and category-based budgeting.
 ________________________________________
