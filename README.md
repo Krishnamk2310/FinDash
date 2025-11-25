@@ -1,80 +1,76 @@
 <h1 align="center">💸 FinDash – Smart Expense, Budget & Analytics Tracker 📊</h1>
-⭐ Highlights
+<h1 align="center">💸 FinDash – Smart Expense, Budget & Analytics Tracker 📊</h1>
+FinDash is a modern, intuitive financial management application designed to help users track expenses, analyze spending patterns, and manage budgets efficiently.
+The platform includes JWT authentication, a clean dashboard, detailed expense management, analytics visualizations, and category-based budgeting.
+________________________________________
+📸 Screenshots
 
-🔐 JWT Authentication for secure login & protected routes
+🔐 Authentication
+<img width="1674" height="773" alt="image" src="https://github.com/user-attachments/assets/78e8d652-82eb-40fe-b2ef-365aa6bc3240" />
 
-📊 Analytics Dashboard with charts for category breakdown & spending trends
-
-💰 Budget Management with category-wise limits & progress tracking
-
-🧾 Expense Manager to Add, Search, Filter, Sort & Export expenses
-
-🖥️ Beautiful, Modern & Responsive UI
-
-🗃️ Supabase / MongoDB Compatible backend structure
-
-⚡ Built with React + TypeScript + Tailwind + Vite
-
-🖼️ Screenshots
-🔐 Authentication Page
-<img width="1674" height="773" alt="image" src="https://github.com/user-attachments/assets/aa87fc85-d1dc-44e8-985c-70ee1326f448" />
-
+________________________________________
 📊 Dashboard
-<img src="/mnt/data/e921ae91-519e-45e9-b3a8-ca9413c47c20.png" />
+<img width="1914" height="906" alt="image" src="https://github.com/user-attachments/assets/d3693881-fb73-4796-8b16-8994fff2f061" />
+
+________________________________________
 📈 Analytics
-<img src="/mnt/data/29f5d669-5463-4d10-9a96-3d8cb7185d8c.png" />
+<img width="1901" height="908" alt="image" src="https://github.com/user-attachments/assets/53219da7-d8df-4706-be1c-268e49fb335f" />
+
+________________________________________
 💰 Budget Management
-<img src="/mnt/data/114a0292-84af-414a-b99e-05287e532108.png" />
-🧪 .env Setup
-Frontend (/)
-VITE_API_BASE_URL=<your_backend_url>
-VITE_JWT_SECRET=<your_jwt_secret>
-VITE_SUPABASE_URL=<your_supabase_url>
-VITE_SUPABASE_ANON_KEY=<your_supabase_anon_key>
+<img width="1919" height="896" alt="image" src="https://github.com/user-attachments/assets/e42ab4e9-815f-4ace-a47e-734c1322ce88" />
 
-Backend (if using custom Node/Express)
-PORT=5000
-MONGO_URI=<your_mongo_uri>
-JWT_SECRET=<your_jwt_secret>
-
-🔧 Run the Frontend
-npm install
-npm run dev
-
-🖥️ Tech Stack
+________________________________________
+✨ Core Features
+1. JWT Authentication
+•	Secure login and registration system
+•	Protected routes for logged-in users
+•	Displays signed-in user in UI
+•	Logout functionality
+________________________________________
+2. Dashboard
+A quick overview of personal financial health:
+•	Total expenses
+•	Monthly spending summary
+•	Category highlights
+•	Recent transactions
+________________________________________
+3. Expense Management
+•	Add new expenses
+•	Edit or delete entries
+•	Search and filter
+•	Sort expenses
+•	Export expenses to CSV
+________________________________________
+4. Analytics
+Visual insights into spending patterns:
+•	Monthly total
+•	Yearly total
+•	Average daily spending
+•	Category distribution pie chart
+•	Monthly spending trend graph
+•	Top spending categories
+________________________________________
+5. Budget Tracking
+•	Set monthly budgets per category
+•	Track spending progress
+•	Remaining vs spent amount
+•	Visual progress bar
+•	Monthly switching via date selector
+________________________________________
+🧰 Tech Stack
 Frontend
-
-React + TypeScript
-
-Tailwind CSS
-
-React Router
-
-Axios
-
-Recharts / Chart.js
-
-Vite
-
+•	React (TypeScript)
+•	Tailwind CSS
+•	React Router
+•	Axios
+•	Recharts / Chart.js
+•	Vite
 Backend
+•	Node.js
+•	Express.js
+•	JWT Authentication
+•	Bcrypt
+•	MongoDB or Supabase
 
-Node.js
 
-Express.js
-
-JWT Authentication
-
-Bcrypt
-
-Supabase / MongoDB
-
-📁 Project Structure
-src/
-  components/
-  pages/
-  contexts/
-  hooks/
-  integrations/
-  lib/
-  main.tsx
-public/
