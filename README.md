@@ -65,13 +65,13 @@ Frontend
 •	Tailwind CSS
 •	React Router
 •	Axios
-•	Recharts / Chart.js
+•	Chart.js
 •	Vite
 Backend
 •	Node.js
 •	Express.js
 •	JWT Authentication
 •	Bcrypt
-•	MongoDB or Supabase
+•	Supabase
 
 
