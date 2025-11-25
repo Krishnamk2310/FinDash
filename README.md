@@ -17,7 +17,8 @@
 
 🖼️ Screenshots
 🔐 Authentication Page
-<img src="blob:https://gemini.google.com/2d81bcf2-0360-417e-a3a0-b5bdd6766575" />
+<img width="1674" height="773" alt="image" src="https://github.com/user-attachments/assets/aa87fc85-d1dc-44e8-985c-70ee1326f448" />
+
 📊 Dashboard
 <img src="/mnt/data/e921ae91-519e-45e9-b3a8-ca9413c47c20.png" />
 📈 Analytics
