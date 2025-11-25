@@ -17,7 +17,7 @@
 
 🖼️ Screenshots
 🔐 Authentication Page
-<img src="/mnt/data/71e30201-6f23-41a5-986f-31aab5b7c820.png" />
+<img src="blob:https://gemini.google.com/2d81bcf2-0360-417e-a3a0-b5bdd6766575" />
 📊 Dashboard
 <img src="/mnt/data/e921ae91-519e-45e9-b3a8-ca9413c47c20.png" />
 📈 Analytics
